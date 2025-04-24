@@ -144,7 +144,7 @@ print("\nName: Manisha selvakumari.S.S.")
 print("Register No: 212223220055")
 print(f'Predicted class for sample input: {predicted_class_label}')
 print(f'Actual class for sample input: {iris.target_names[y_test[5].item()]}')
-
+]
 ~~~
 
 ### Dataset Information
